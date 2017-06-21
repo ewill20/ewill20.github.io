@@ -1,0 +1,23 @@
+header {
+	font-size: 44px;
+	background-color: lightgray;
+	width: auto;
+	text-align: center;
+}
+img {
+	height: 200px;
+	width: 200px;
+	float: left;
+	margin-top: 10px;
+}
+p {
+	float: right;
+	font-size: 35px;
+}
+ul {
+	float: right;
+	font-size: 24px;
+}
+.container {
+	float: left;
+}
